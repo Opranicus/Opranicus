@@ -1,17 +1,17 @@
-## 👋 About Me
+##  About Me
 
 Hi, I'm Rj, a college student from the Philippines.
 
 I enjoy creating small personal projects to enhance my coding skills.
 
-## 💻 Skills
+##  Skills
 - Basic C#
 - Windows Forms
 - Basic MySQL 
 - Basic HTML, CSS
 - Basic Java
 
-## 🚀 Goals
+##  Goals
 - Become better at C#
 - Build more useful applications
 - Learn APIs
