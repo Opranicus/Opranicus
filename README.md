@@ -8,7 +8,7 @@ I enjoy creating small personal projects to enhance my coding skills.
 - Basic C#
 - Windows Forms
 - Basic MySQL 
-- Basic HTML, CSS
+- Basic HTML and CSS
 - Basic Java
 
 ##  Goals
