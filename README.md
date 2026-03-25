@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Opranicus/Opranicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Rj, a college student from the Philippines.
 
-Here are some ideas to get you started:
+I enjoy creating small personal projects to enhance my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Basic C#
+- Windows Forms
+- Basic MySQL 
+- Basic HTML, CSS
+- Basic Java
+
+## 🚀 Goals
+- Become better at C#
+- Build more useful applications
+- Learn APIs
